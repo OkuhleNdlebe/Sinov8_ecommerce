@@ -1,0 +1,7 @@
+name: sinov8-ecommerce
+php: '8.3'
+secured: false
+aliases: {  }
+services: {  }
+integrations:
+    forge: {  }
